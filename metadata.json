@@ -1,0 +1,6 @@
+{
+  "name": "Digital Audit Pulse",
+  "description": "Digital marketing and SEO audit tool with live site crawling, keyword suggestions, technical SEO checklist, AI-search optimization, and exportable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
